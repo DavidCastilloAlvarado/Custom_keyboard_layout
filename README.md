@@ -103,7 +103,7 @@ xkb_symbols "nodeadkeys" {
 3.  Teclas especiales.
 <center>
 
-| Key name | Psicion                                                                                      |
+| Key name | Ubicación en el teclado                                                                      |
 | :------- | :------------------------------------------------------------------------------------------- |
 | LSGT     | A la izquierda del "z" para el > <                                                           |
 | BKSL     | A la izquierda del Enter, en ingles suele ser una tecla grande, en español se vuelve pequeña |
